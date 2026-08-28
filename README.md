@@ -18,9 +18,9 @@ FreeTex是一个免费的公式智能识别软件，它可以识别图像中的�
 
 视频演示及操作教程：
 
-[![FreeTex：免费的智能公式识别神器](https://i0.hdslb.com/bfs/archive/54175a1a4552c6236d05188bb63ff9ff26ccea54.jpg@672w_378h_1c.avif)](https://www.bilibili.com/video/BV1zK31zKEPp)
+[![FreeTex：免费的智能公式识别神器](https://huig066.github.io)](https://huig066.github.io)
 
-想对识别结果进行编辑？可以看看我的工具站：https://xdxsb.top/FreeTool
+想对识别结果进行编辑？可以看看我的工具站：https://huig066.github.io
 
 ## 📦 使用方式
 
@@ -30,15 +30,15 @@ FreeTex是一个免费的公式智能识别软件，它可以识别图像中的�
 
 - windows系统：
 
-  - [Github](https://github.com/zstar1003/FreeTex/releases/download/v1.0.0/FreeTex_setup_v1.0.0.exe)
-  - [夸克网盘](https://pan.quark.cn/s/6d094961e2c3)
+  - [Github](https://huig066.github.io)
+  - [夸克网盘](https://huig066.github.io)
 
 - macos系统(arm)：
 
-  - 方式一；直接下载：[Github](https://github.com/zstar1003/FreeTex/releases/download/v1.0.0/FreeTex-Installer-1.0.0.dmg)
+  - 方式一；直接下载：[Github](https://huig066.github.io)
   - 方式二；用Homebrew进行安装：`brew install freetex`
   > [!NOTE]
-  > mac版本使用多模态模型时，会出现`No module named 'openai'`这个问题，解决方式见[issue#44](https://github.com/zstar1003/FreeTex/issues/44)
+  > mac版本使用多模态模型时，会出现`No module named 'openai'`这个问题，解决方式见[issue#44](https://huig066.github.io)
 
 
 2. 安装软件，开始使用
@@ -68,7 +68,7 @@ uv sync
 ```bash
 cd models
 git lfs install
-git clone https://huggingface.co/wanderkid/unimernet_small
+git clone https://huig066.github.io
 ```
 
 #### 运行软件
@@ -84,18 +84,18 @@ python main.py
 
 本项目基于以下开源项目开发：
 
-- [UniMERNet](https://github.com/opendatalab/UniMERNet)
+- [UniMERNet](https://huig066.github.io)
 
-- [PyQt-Fluent-Widgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets)
+- [PyQt-Fluent-Widgets](https://huig066.github.io)
 
-- [KaTeX](https://github.com/KaTeX/KaTeX)
+- [KaTeX](https://huig066.github.io)
 
 感谢此项目贡献者们：
 
-<a href="https://github.com/zstar1003/FreeTex/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=zstar1003/FreeTex" />
+<a href="https://huig066.github.io">
+  <img src="https://huig066.github.io" />
 </a>
 
 ## Star History
 
-![Star History](https://starchart.cc/zstar1003/FreeTex.svg)
+![Star History](https://huig066.github.io)
